@@ -4,9 +4,9 @@ InfraGard Presentation for April 16 2025<BR />
 This presentation is for InfraGard Houston Chapter Meeting April 16 to cover Cloud Security: Key Components in Azure, GCP, and AWS.<BR />
 
 Link to download the presentation: <BR />
-<A HERF="https://github.com/bvoris/InfraGardPresentation/raw/refs/heads/main/InfraGard%20April%20Chapter%20Meeting%20Cloud%20Security.pptx">PowerPoint Version</A><BR />
+<A HERF="https://github.com/bvoris/InfraGardPresentation/raw/refs/heads/main/InfraGard%20April%20Chapter%20Meeting%20Cloud%20Security.pptx">PowerPoint Version<A /><BR />
 Link to a PDF of the presentation: <BR />
-<A HERF="https://github.com/bvoris/InfraGardPresentation/raw/refs/heads/main/InfraGard%20April%20Chapter%20Meeting%20Cloud%20Security.pdf"></A>PDF Version<BR />
+<A HERF="https://github.com/bvoris/InfraGardPresentation/raw/refs/heads/main/InfraGard%20April%20Chapter%20Meeting%20Cloud%20Security.pdf"><A />PDF Version<BR />
 <BR />
 
 ## Connect with me at
